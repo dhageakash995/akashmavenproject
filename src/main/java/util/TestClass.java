@@ -31,5 +31,10 @@ public class TestClass {
 		System.out.println(prop.getProperty("password"));
 		System.out.println(prop.getProperty("browser"));
 	}
+	
+	public static void test()
+	{
+			
+	}
 
 }
