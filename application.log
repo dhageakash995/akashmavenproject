@@ -1,0 +1,387 @@
+2023-02-06 20:55:13,760  INFO [main] ElementUtil:79 - Inside enterText Method
+2023-02-06 20:55:13,760  INFO [main] ElementUtil:80 - Locator:By.name: username
+2023-02-06 20:55:13,845  INFO [main] ElementUtil:85 - text entered Successfully
+2023-02-06 20:55:13,845  INFO [main] ElementUtil:79 - Inside enterText Method
+2023-02-06 20:55:13,846  INFO [main] ElementUtil:80 - Locator:By.name: password
+2023-02-06 20:55:13,945  INFO [main] ElementUtil:85 - text entered Successfully
+2023-02-06 20:55:13,947  INFO [main] ElementUtil:24 - Inside doClick Method
+2023-02-06 20:55:13,947  INFO [main] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-06 20:55:14,006  INFO [main] ElementUtil:33 - click Successfully
+2023-02-06 20:55:14,008  INFO [main] ElementUtil:96 - Inside isElementPresent method
+2023-02-06 20:55:14,009  INFO [main] ElementUtil:97 - Locator:By.className: oxd-userdropdown-name
+2023-02-06 20:55:16,132  INFO [main] ElementUtil:102 - Element is present within 15
+2023-02-06 20:55:25,944  INFO [main] LogInTest:74 - test case executopn start -->CancellationButton
+2023-02-06 20:55:25,946  INFO [main] ElementUtil:24 - Inside doClick Method
+2023-02-06 20:55:25,946  INFO [main] ElementUtil:27 - Locator:By.className: orangehrm-login-forgot-header
+2023-02-06 20:55:26,579  INFO [main] ElementUtil:33 - click Successfully
+2023-02-06 20:55:27,600  INFO [main] ElementUtil:96 - Inside isElementPresent method
+2023-02-06 20:55:27,600  INFO [main] ElementUtil:97 - Locator:By.className: orangehrm-login-title
+2023-02-06 20:55:28,153  INFO [main] ElementUtil:102 - Element is present within 10
+2023-02-06 20:55:37,199  INFO [main] LogInTest:50 - test case executopn start -->invalidLogin
+2023-02-06 20:55:37,200  INFO [main] ElementUtil:79 - Inside enterText Method
+2023-02-06 20:55:37,200  INFO [main] ElementUtil:80 - Locator:By.name: username
+2023-02-06 20:55:37,258  INFO [main] ElementUtil:85 - text entered Successfully
+2023-02-06 20:55:37,259  INFO [main] ElementUtil:79 - Inside enterText Method
+2023-02-06 20:55:37,259  INFO [main] ElementUtil:80 - Locator:By.name: password
+2023-02-06 20:55:37,342  INFO [main] ElementUtil:85 - text entered Successfully
+2023-02-06 20:55:37,343  INFO [main] ElementUtil:24 - Inside doClick Method
+2023-02-06 20:55:37,343  INFO [main] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-06 20:55:37,402  INFO [main] ElementUtil:33 - click Successfully
+2023-02-06 20:55:37,403  INFO [main] ElementUtil:96 - Inside isElementPresent method
+2023-02-06 20:55:37,403  INFO [main] ElementUtil:97 - Locator:By.className: oxd-alert-content-text
+2023-02-06 20:55:39,206  INFO [main] ElementUtil:102 - Element is present within 10
+2023-02-06 20:55:48,480  INFO [main] LogInTest:34 - test case executopn start -->loginTest
+2023-02-06 20:55:48,480  INFO [main] ElementUtil:79 - Inside enterText Method
+2023-02-06 20:55:48,480  INFO [main] ElementUtil:80 - Locator:By.name: username
+2023-02-06 20:55:48,549  INFO [main] ElementUtil:85 - text entered Successfully
+2023-02-06 20:55:48,550  INFO [main] ElementUtil:79 - Inside enterText Method
+2023-02-06 20:55:48,550  INFO [main] ElementUtil:80 - Locator:By.name: password
+2023-02-06 20:55:48,627  INFO [main] ElementUtil:85 - text entered Successfully
+2023-02-06 20:55:48,627  INFO [main] ElementUtil:24 - Inside doClick Method
+2023-02-06 20:55:48,627  INFO [main] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-06 20:55:48,689  INFO [main] ElementUtil:33 - click Successfully
+2023-02-06 20:55:48,689  INFO [main] ElementUtil:96 - Inside isElementPresent method
+2023-02-06 20:55:48,689  INFO [main] ElementUtil:97 - Locator:By.className: oxd-userdropdown-name
+2023-02-06 20:55:50,469  INFO [main] ElementUtil:102 - Element is present within 15
+2023-02-06 20:55:59,993  INFO [main] LogInTest:65 - test case executopn start -->redirectToResetPasswordPageLinkPresent
+2023-02-06 20:55:59,993  INFO [main] ElementUtil:96 - Inside isElementPresent method
+2023-02-06 20:55:59,993  INFO [main] ElementUtil:97 - Locator:By.className: orangehrm-login-forgot-header
+2023-02-06 20:56:00,014  INFO [main] ElementUtil:102 - Element is present within 10
+2023-02-09 12:27:09,894  INFO [main] TestBase:48 - Execution Started for the testcase: verifyLinks-----------------
+2023-02-09 12:27:09,898  INFO [main] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:27:13,681  INFO [main] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:27:26,003  INFO [main] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:27:26,004  INFO [main] ElementUtil:80 - Locator:By.name: username
+2023-02-09 12:27:26,137  INFO [main] ElementUtil:85 - text entered Successfully
+2023-02-09 12:27:26,138  INFO [main] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:27:26,138  INFO [main] ElementUtil:80 - Locator:By.name: password
+2023-02-09 12:27:26,294  INFO [main] ElementUtil:85 - text entered Successfully
+2023-02-09 12:27:26,295  INFO [main] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:27:26,296  INFO [main] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-09 12:27:27,561  INFO [main] ElementUtil:33 - click Successfully
+2023-02-09 12:27:27,564  INFO [main] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:27:27,564  INFO [main] ElementUtil:97 - Locator:By.className: oxd-userdropdown-name
+2023-02-09 12:27:28,126  INFO [main] ElementUtil:102 - Element is present within 15
+2023-02-09 12:27:29,395  INFO [main] TestBase:48 - Execution Started for the testcase: CancellationButton-----------------
+2023-02-09 12:27:29,399  INFO [main] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:27:30,817  INFO [main] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:27:50,393  INFO [main] LogInTest:74 - test case executopn start -->CancellationButton
+2023-02-09 12:27:50,393  INFO [main] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:27:50,399  INFO [main] ElementUtil:27 - Locator:By.className: orangehrm-login-forgot-header
+2023-02-09 12:27:51,268  INFO [main] ElementUtil:33 - click Successfully
+2023-02-09 12:27:52,383  INFO [main] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:27:52,383  INFO [main] ElementUtil:97 - Locator:By.className: orangehrm-login-title
+2023-02-09 12:27:52,942  INFO [main] ElementUtil:102 - Element is present within 10
+2023-02-09 12:27:53,712  INFO [main] TestBase:48 - Execution Started for the testcase: invalidLogin-----------------
+2023-02-09 12:27:53,712  INFO [main] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:27:54,916  INFO [main] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:28:16,717  INFO [main] LogInTest:50 - test case executopn start -->invalidLogin
+2023-02-09 12:28:16,717  INFO [main] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:28:16,717  INFO [main] ElementUtil:80 - Locator:By.name: username
+2023-02-09 12:28:16,830  INFO [main] ElementUtil:85 - text entered Successfully
+2023-02-09 12:28:16,831  INFO [main] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:28:16,832  INFO [main] ElementUtil:80 - Locator:By.name: password
+2023-02-09 12:28:16,964  INFO [main] ElementUtil:85 - text entered Successfully
+2023-02-09 12:28:16,964  INFO [main] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:28:16,964  INFO [main] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-09 12:28:18,152  INFO [main] ElementUtil:33 - click Successfully
+2023-02-09 12:28:18,152  INFO [main] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:28:18,152  INFO [main] ElementUtil:97 - Locator:By.className: oxd-alert-content-text
+2023-02-09 12:28:18,733  INFO [main] ElementUtil:102 - Element is present within 10
+2023-02-09 12:28:19,444  INFO [main] TestBase:48 - Execution Started for the testcase: loginTest-----------------
+2023-02-09 12:28:19,444  INFO [main] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:28:20,603  INFO [main] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:36:46,311  INFO [TestNG-tests-2] TestBase:48 - Execution Started for the testcase: verifyLinks-----------------
+2023-02-09 12:36:46,311  INFO [TestNG-tests-1] TestBase:48 - Execution Started for the testcase: CancellationButton-----------------
+2023-02-09 12:36:46,316  INFO [TestNG-tests-2] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:36:46,316  INFO [TestNG-tests-1] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:36:48,671  INFO [TestNG-tests-2] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:36:48,671  INFO [TestNG-tests-1] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:37:01,582  INFO [TestNG-tests-2] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:37:01,582  INFO [TestNG-tests-2] ElementUtil:80 - Locator:By.name: username
+2023-02-09 12:37:01,582  INFO [TestNG-tests-1] LogInTest:74 - test case executopn start -->CancellationButton
+2023-02-09 12:37:01,582  INFO [TestNG-tests-1] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:37:01,586  INFO [TestNG-tests-1] ElementUtil:27 - Locator:By.className: orangehrm-login-forgot-header
+2023-02-09 12:37:01,685  INFO [TestNG-tests-2] ElementUtil:85 - text entered Successfully
+2023-02-09 12:37:01,685  INFO [TestNG-tests-2] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:37:01,685  INFO [TestNG-tests-2] ElementUtil:80 - Locator:By.name: password
+2023-02-09 12:37:02,206  INFO [TestNG-tests-1] ElementUtil:33 - click Successfully
+2023-02-09 12:37:02,221 ERROR [TestNG-tests-2] ElementUtil:89 - text not entered Successfully
+2023-02-09 12:37:02,230 ERROR [TestNG-tests-2] ElementUtil:90 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='password']"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-FKI3VB5', ip: '192.168.1.222', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:65176}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1e3806d1239f18f682db8f37b6c0c2a1
+*** Element info: {Using=name, value=password}
+2023-02-09 12:37:02,230  INFO [TestNG-tests-2] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:37:02,230  INFO [TestNG-tests-2] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-09 12:37:02,254 ERROR [TestNG-tests-2] ElementUtil:37 - Click not Successfully
+2023-02-09 12:37:02,254 ERROR [TestNG-tests-2] ElementUtil:40 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".orangehrm\-login\-button"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-FKI3VB5', ip: '192.168.1.222', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:65176}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1e3806d1239f18f682db8f37b6c0c2a1
+*** Element info: {Using=class name, value=orangehrm-login-button}
+2023-02-09 12:37:02,263  INFO [TestNG-tests-2] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:37:02,263  INFO [TestNG-tests-2] ElementUtil:97 - Locator:By.className: oxd-userdropdown-name
+2023-02-09 12:37:03,285  INFO [TestNG-tests-1] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:37:03,287  INFO [TestNG-tests-1] ElementUtil:97 - Locator:By.className: orangehrm-login-title
+2023-02-09 12:37:03,838  INFO [TestNG-tests-1] ElementUtil:102 - Element is present within 10
+2023-02-09 12:37:04,596  INFO [TestNG-tests-1] TestBase:48 - Execution Started for the testcase: invalidLogin-----------------
+2023-02-09 12:37:04,600  INFO [TestNG-tests-1] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:37:05,792  INFO [TestNG-tests-1] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:37:15,992  INFO [TestNG-tests-1] LogInTest:50 - test case executopn start -->invalidLogin
+2023-02-09 12:37:15,992  INFO [TestNG-tests-1] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:37:15,993  INFO [TestNG-tests-1] ElementUtil:80 - Locator:By.name: username
+2023-02-09 12:37:16,094  INFO [TestNG-tests-1] ElementUtil:85 - text entered Successfully
+2023-02-09 12:37:16,094  INFO [TestNG-tests-1] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:37:16,094  INFO [TestNG-tests-1] ElementUtil:80 - Locator:By.name: password
+2023-02-09 12:37:16,222  INFO [TestNG-tests-1] ElementUtil:85 - text entered Successfully
+2023-02-09 12:37:16,222  INFO [TestNG-tests-1] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:37:16,222  INFO [TestNG-tests-1] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-09 12:37:17,511  INFO [TestNG-tests-1] ElementUtil:33 - click Successfully
+2023-02-09 12:37:17,512  INFO [TestNG-tests-1] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:37:17,512  INFO [TestNG-tests-1] ElementUtil:97 - Locator:By.className: oxd-alert-content-text
+2023-02-09 12:37:18,078  INFO [TestNG-tests-1] ElementUtil:102 - Element is present within 10
+2023-02-09 12:37:18,881  INFO [TestNG-tests-1] TestBase:48 - Execution Started for the testcase: loginTest-----------------
+2023-02-09 12:37:18,881  INFO [TestNG-tests-1] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:37:20,049  INFO [TestNG-tests-1] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:39:55,875  INFO [TestNG-tests-2] TestBase:48 - Execution Started for the testcase: verifyLinks-----------------
+2023-02-09 12:39:55,875  INFO [TestNG-tests-1] TestBase:48 - Execution Started for the testcase: CancellationButton-----------------
+2023-02-09 12:39:55,879  INFO [TestNG-tests-2] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:39:55,879  INFO [TestNG-tests-1] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:39:57,913  INFO [TestNG-tests-1] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:39:58,003  INFO [TestNG-tests-2] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:40:14,454  INFO [TestNG-tests-2] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:40:14,456  INFO [TestNG-tests-2] ElementUtil:80 - Locator:By.name: username
+2023-02-09 12:40:14,457  INFO [TestNG-tests-1] LogInTest:74 - test case executopn start -->CancellationButton
+2023-02-09 12:40:14,458  INFO [TestNG-tests-1] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:40:14,459  INFO [TestNG-tests-1] ElementUtil:27 - Locator:By.className: orangehrm-login-forgot-header
+2023-02-09 12:40:14,567  INFO [TestNG-tests-2] ElementUtil:85 - text entered Successfully
+2023-02-09 12:40:14,567  INFO [TestNG-tests-2] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:40:14,568  INFO [TestNG-tests-2] ElementUtil:80 - Locator:By.name: password
+2023-02-09 12:40:15,065  INFO [TestNG-tests-1] ElementUtil:33 - click Successfully
+2023-02-09 12:40:15,083 ERROR [TestNG-tests-2] ElementUtil:89 - text not entered Successfully
+2023-02-09 12:40:15,087 ERROR [TestNG-tests-2] ElementUtil:90 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='password']"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-FKI3VB5', ip: '192.168.1.222', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:65377}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cb6185d2acf251913263ad85a28611f1
+*** Element info: {Using=name, value=password}
+2023-02-09 12:40:15,089  INFO [TestNG-tests-2] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:40:15,090  INFO [TestNG-tests-2] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-09 12:40:15,133 ERROR [TestNG-tests-2] ElementUtil:37 - Click not Successfully
+2023-02-09 12:40:15,134 ERROR [TestNG-tests-2] ElementUtil:40 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".orangehrm\-login\-button"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-FKI3VB5', ip: '192.168.1.222', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:65377}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cb6185d2acf251913263ad85a28611f1
+*** Element info: {Using=class name, value=orangehrm-login-button}
+2023-02-09 12:40:15,137  INFO [TestNG-tests-2] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:40:15,137  INFO [TestNG-tests-2] ElementUtil:97 - Locator:By.className: oxd-userdropdown-name
+2023-02-09 12:40:16,186  INFO [TestNG-tests-1] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:40:16,190  INFO [TestNG-tests-1] ElementUtil:97 - Locator:By.className: orangehrm-login-title
+2023-02-09 12:40:16,759  INFO [TestNG-tests-1] ElementUtil:102 - Element is present within 10
+2023-02-09 12:40:17,509  INFO [TestNG-tests-1] TestBase:48 - Execution Started for the testcase: invalidLogin-----------------
+2023-02-09 12:40:17,510  INFO [TestNG-tests-1] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:40:18,683  INFO [TestNG-tests-1] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:40:28,274  INFO [TestNG-tests-1] LogInTest:50 - test case executopn start -->invalidLogin
+2023-02-09 12:40:28,275  INFO [TestNG-tests-1] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:40:28,275  INFO [TestNG-tests-1] ElementUtil:80 - Locator:By.name: username
+2023-02-09 12:40:28,352  INFO [TestNG-tests-1] ElementUtil:85 - text entered Successfully
+2023-02-09 12:40:28,355  INFO [TestNG-tests-1] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:40:28,355  INFO [TestNG-tests-1] ElementUtil:80 - Locator:By.name: password
+2023-02-09 12:40:28,473  INFO [TestNG-tests-1] ElementUtil:85 - text entered Successfully
+2023-02-09 12:40:28,473  INFO [TestNG-tests-1] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:40:28,474  INFO [TestNG-tests-1] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-09 12:40:28,585  INFO [TestNG-tests-1] ElementUtil:33 - click Successfully
+2023-02-09 12:40:28,586  INFO [TestNG-tests-1] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:40:28,586  INFO [TestNG-tests-1] ElementUtil:97 - Locator:By.className: oxd-alert-content-text
+2023-02-09 12:40:30,215  INFO [TestNG-tests-1] ElementUtil:102 - Element is present within 10
+2023-02-09 12:40:30,961  INFO [TestNG-tests-1] TestBase:48 - Execution Started for the testcase: loginTest-----------------
+2023-02-09 12:40:30,962  INFO [TestNG-tests-1] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:40:32,130  INFO [TestNG-tests-1] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:40:45,074  INFO [TestNG-tests-1] LogInTest:34 - test case executopn start -->loginTest
+2023-02-09 12:40:45,074  INFO [TestNG-tests-1] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:40:45,075  INFO [TestNG-tests-1] ElementUtil:80 - Locator:By.name: username
+2023-02-09 12:40:45,157  INFO [TestNG-tests-1] ElementUtil:85 - text entered Successfully
+2023-02-09 12:40:45,159  INFO [TestNG-tests-1] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:40:45,160  INFO [TestNG-tests-1] ElementUtil:80 - Locator:By.name: password
+2023-02-09 12:40:45,305  INFO [TestNG-tests-1] ElementUtil:85 - text entered Successfully
+2023-02-09 12:40:45,307  INFO [TestNG-tests-1] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:40:45,308  INFO [TestNG-tests-1] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-09 12:40:45,418  INFO [TestNG-tests-1] ElementUtil:33 - click Successfully
+2023-02-09 12:40:45,418  INFO [TestNG-tests-1] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:40:45,419  INFO [TestNG-tests-1] ElementUtil:97 - Locator:By.className: oxd-userdropdown-name
+2023-02-09 12:40:47,155  INFO [TestNG-tests-1] ElementUtil:102 - Element is present within 15
+2023-02-09 12:40:47,900  INFO [TestNG-tests-1] TestBase:48 - Execution Started for the testcase: redirectToResetPasswordPageLinkPresent-----------------
+2023-02-09 12:40:47,901  INFO [TestNG-tests-1] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:40:49,149  INFO [TestNG-tests-1] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:40:55,635  INFO [TestNG-tests-1] LogInTest:65 - test case executopn start -->redirectToResetPasswordPageLinkPresent
+2023-02-09 12:40:55,636  INFO [TestNG-tests-1] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:40:55,636  INFO [TestNG-tests-1] ElementUtil:97 - Locator:By.className: orangehrm-login-forgot-header
+2023-02-09 12:40:55,666  INFO [TestNG-tests-1] ElementUtil:102 - Element is present within 10
+2023-02-09 12:42:09,359  INFO [TestNG-tests-2] TestBase:48 - Execution Started for the testcase: CancellationButton-----------------
+2023-02-09 12:42:09,359  INFO [TestNG-tests-1] TestBase:48 - Execution Started for the testcase: CancellationButton-----------------
+2023-02-09 12:42:09,363  INFO [TestNG-tests-2] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:42:09,363  INFO [TestNG-tests-1] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:42:11,415  INFO [TestNG-tests-1] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:42:11,415  INFO [TestNG-tests-2] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:42:22,269  INFO [TestNG-tests-2] LogInTest:74 - test case executopn start -->CancellationButton
+2023-02-09 12:42:22,298  INFO [TestNG-tests-2] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:42:22,298  INFO [TestNG-tests-1] LogInTest:74 - test case executopn start -->CancellationButton
+2023-02-09 12:42:22,298  INFO [TestNG-tests-2] ElementUtil:27 - Locator:By.className: orangehrm-login-forgot-header
+2023-02-09 12:42:22,298  INFO [TestNG-tests-1] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:42:22,298  INFO [TestNG-tests-1] ElementUtil:27 - Locator:By.className: orangehrm-login-forgot-header
+2023-02-09 12:42:22,932  INFO [TestNG-tests-2] ElementUtil:33 - click Successfully
+2023-02-09 12:42:22,941 ERROR [TestNG-tests-1] ElementUtil:37 - Click not Successfully
+2023-02-09 12:42:22,941 ERROR [TestNG-tests-1] ElementUtil:40 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-FKI3VB5', ip: '192.168.1.222', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49168}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c35c00474964fab0673a1511f8293f56
+2023-02-09 12:42:24,669  INFO [TestNG-tests-2] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:42:24,672  INFO [TestNG-tests-2] ElementUtil:97 - Locator:By.className: orangehrm-login-title
+2023-02-09 12:42:25,426  INFO [TestNG-tests-1] TestBase:48 - Execution Started for the testcase: invalidLogin-----------------
+2023-02-09 12:42:25,426  INFO [TestNG-tests-1] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:42:26,672  INFO [TestNG-tests-1] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:42:29,265  INFO [TestNG-tests-2] TestBase:48 - Execution Started for the testcase: invalidLogin-----------------
+2023-02-09 12:42:29,265  INFO [TestNG-tests-2] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:42:30,602  INFO [TestNG-tests-2] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:42:40,930  INFO [TestNG-tests-2] LogInTest:50 - test case executopn start -->invalidLogin
+2023-02-09 12:42:40,930  INFO [TestNG-tests-2] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:42:40,930  INFO [TestNG-tests-2] ElementUtil:80 - Locator:By.name: username
+2023-02-09 12:42:41,050  INFO [TestNG-tests-2] ElementUtil:85 - text entered Successfully
+2023-02-09 12:42:41,050  INFO [TestNG-tests-2] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:42:41,050  INFO [TestNG-tests-2] ElementUtil:80 - Locator:By.name: password
+2023-02-09 12:42:41,214  INFO [TestNG-tests-2] ElementUtil:85 - text entered Successfully
+2023-02-09 12:42:41,214  INFO [TestNG-tests-2] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:42:41,214  INFO [TestNG-tests-2] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-09 12:42:42,400  INFO [TestNG-tests-2] ElementUtil:33 - click Successfully
+2023-02-09 12:42:42,402  INFO [TestNG-tests-2] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:42:42,402  INFO [TestNG-tests-2] ElementUtil:97 - Locator:By.className: oxd-alert-content-text
+2023-02-09 12:42:42,959  INFO [TestNG-tests-2] ElementUtil:102 - Element is present within 10
+2023-02-09 12:42:43,747  INFO [TestNG-tests-2] TestBase:48 - Execution Started for the testcase: loginTest-----------------
+2023-02-09 12:42:43,748  INFO [TestNG-tests-2] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:42:44,975  INFO [TestNG-tests-2] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:42:46,726  INFO [TestNG-tests-1] LogInTest:50 - test case executopn start -->invalidLogin
+2023-02-09 12:42:46,727  INFO [TestNG-tests-1] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:42:46,727  INFO [TestNG-tests-1] ElementUtil:80 - Locator:By.name: username
+2023-02-09 12:42:46,837  INFO [TestNG-tests-1] ElementUtil:85 - text entered Successfully
+2023-02-09 12:42:46,837  INFO [TestNG-tests-1] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:42:46,840  INFO [TestNG-tests-1] ElementUtil:80 - Locator:By.name: password
+2023-02-09 12:42:47,004  INFO [TestNG-tests-1] ElementUtil:85 - text entered Successfully
+2023-02-09 12:42:47,004  INFO [TestNG-tests-1] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:42:47,004  INFO [TestNG-tests-1] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-09 12:42:47,163  INFO [TestNG-tests-1] ElementUtil:33 - click Successfully
+2023-02-09 12:42:47,164  INFO [TestNG-tests-1] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:42:47,164  INFO [TestNG-tests-1] ElementUtil:97 - Locator:By.className: oxd-alert-content-text
+2023-02-09 12:42:48,791  INFO [TestNG-tests-1] ElementUtil:102 - Element is present within 10
+2023-02-09 12:42:49,540  INFO [TestNG-tests-1] TestBase:48 - Execution Started for the testcase: loginTest-----------------
+2023-02-09 12:42:49,540  INFO [TestNG-tests-1] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:42:50,740  INFO [TestNG-tests-1] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:42:55,578  INFO [TestNG-tests-2] LogInTest:34 - test case executopn start -->loginTest
+2023-02-09 12:42:55,580  INFO [TestNG-tests-2] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:42:55,580  INFO [TestNG-tests-2] ElementUtil:80 - Locator:By.name: username
+2023-02-09 12:42:55,677  INFO [TestNG-tests-2] ElementUtil:85 - text entered Successfully
+2023-02-09 12:42:55,684  INFO [TestNG-tests-2] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:42:55,686  INFO [TestNG-tests-2] ElementUtil:80 - Locator:By.name: password
+2023-02-09 12:42:55,845  INFO [TestNG-tests-2] ElementUtil:85 - text entered Successfully
+2023-02-09 12:42:55,845  INFO [TestNG-tests-2] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:42:55,845  INFO [TestNG-tests-2] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-09 12:42:57,112  INFO [TestNG-tests-2] ElementUtil:33 - click Successfully
+2023-02-09 12:42:57,113  INFO [TestNG-tests-2] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:42:57,113  INFO [TestNG-tests-2] ElementUtil:97 - Locator:By.className: oxd-userdropdown-name
+2023-02-09 12:42:57,678  INFO [TestNG-tests-2] ElementUtil:102 - Element is present within 15
+2023-02-09 12:42:58,454  INFO [TestNG-tests-2] TestBase:48 - Execution Started for the testcase: redirectToResetPasswordPageLinkPresent-----------------
+2023-02-09 12:42:58,454  INFO [TestNG-tests-2] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:42:59,604  INFO [TestNG-tests-2] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:43:02,252  INFO [TestNG-tests-1] LogInTest:34 - test case executopn start -->loginTest
+2023-02-09 12:43:02,252  INFO [TestNG-tests-1] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:43:02,252  INFO [TestNG-tests-1] ElementUtil:80 - Locator:By.name: username
+2023-02-09 12:43:02,360  INFO [TestNG-tests-1] ElementUtil:85 - text entered Successfully
+2023-02-09 12:43:02,360  INFO [TestNG-tests-1] ElementUtil:79 - Inside enterText Method
+2023-02-09 12:43:02,360  INFO [TestNG-tests-1] ElementUtil:80 - Locator:By.name: password
+2023-02-09 12:43:02,492  INFO [TestNG-tests-1] ElementUtil:85 - text entered Successfully
+2023-02-09 12:43:02,492  INFO [TestNG-tests-1] ElementUtil:24 - Inside doClick Method
+2023-02-09 12:43:02,492  INFO [TestNG-tests-1] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-09 12:43:02,568  INFO [TestNG-tests-1] ElementUtil:33 - click Successfully
+2023-02-09 12:43:02,568  INFO [TestNG-tests-1] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:43:02,568  INFO [TestNG-tests-1] ElementUtil:97 - Locator:By.className: oxd-userdropdown-name
+2023-02-09 12:43:04,264  INFO [TestNG-tests-1] ElementUtil:102 - Element is present within 15
+2023-02-09 12:43:04,996  INFO [TestNG-tests-1] TestBase:48 - Execution Started for the testcase: redirectToResetPasswordPageLinkPresent-----------------
+2023-02-09 12:43:04,996  INFO [TestNG-tests-1] DriverFactory:19 - inside init driver:chrome
+2023-02-09 12:43:06,136  INFO [TestNG-tests-1] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 12:43:11,695  INFO [TestNG-tests-2] LogInTest:65 - test case executopn start -->redirectToResetPasswordPageLinkPresent
+2023-02-09 12:43:11,695  INFO [TestNG-tests-2] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:43:11,697  INFO [TestNG-tests-2] ElementUtil:97 - Locator:By.className: orangehrm-login-forgot-header
+2023-02-09 12:43:11,735  INFO [TestNG-tests-2] ElementUtil:102 - Element is present within 10
+2023-02-09 12:43:21,094  INFO [TestNG-tests-1] LogInTest:65 - test case executopn start -->redirectToResetPasswordPageLinkPresent
+2023-02-09 12:43:21,095  INFO [TestNG-tests-1] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 12:43:21,095  INFO [TestNG-tests-1] ElementUtil:97 - Locator:By.className: orangehrm-login-forgot-header
+2023-02-09 12:43:21,121  INFO [TestNG-tests-1] ElementUtil:102 - Element is present within 10
+2023-02-09 16:53:31,596  INFO [TestNG-tests-1] TestBase:48 - ----------------------Execution Started for the testcase: CancellationButton-----------------
+2023-02-09 16:53:31,599  INFO [TestNG-tests-1] DriverFactory:19 - inside init driver:chrome
+2023-02-09 16:53:34,795  INFO [TestNG-tests-1] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 16:53:58,407  INFO [TestNG-tests-1] LogInTest:74 - test case executopn start -->CancellationButton
+2023-02-09 16:53:58,407  INFO [TestNG-tests-1] ElementUtil:24 - Inside doClick Method
+2023-02-09 16:53:58,407  INFO [TestNG-tests-1] ElementUtil:27 - Locator:By.className: orangehrm-login-forgot-header
+2023-02-09 16:53:59,005  INFO [TestNG-tests-1] ElementUtil:33 - click Successfully
+2023-02-09 16:54:00,030  INFO [TestNG-tests-1] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 16:54:00,032  INFO [TestNG-tests-1] ElementUtil:97 - Locator:By.className: orangehrm-login-title
+2023-02-09 16:54:00,608  INFO [TestNG-tests-1] ElementUtil:102 - Element is present within 10
+2023-02-09 16:54:01,471  INFO [TestNG-tests-1] TestBase:48 - ----------------------Execution Started for the testcase: invalidLogin-----------------
+2023-02-09 16:54:01,471  INFO [TestNG-tests-1] DriverFactory:19 - inside init driver:chrome
+2023-02-09 16:54:02,883  INFO [TestNG-tests-1] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 16:54:26,530  INFO [TestNG-tests-1] LogInTest:50 - test case executopn start -->invalidLogin
+2023-02-09 16:54:26,542  INFO [TestNG-tests-1] ElementUtil:79 - Inside enterText Method
+2023-02-09 16:54:26,542  INFO [TestNG-tests-1] ElementUtil:80 - Locator:By.name: username
+2023-02-09 16:54:26,640  INFO [TestNG-tests-1] ElementUtil:85 - text entered Successfully
+2023-02-09 16:54:26,640  INFO [TestNG-tests-1] ElementUtil:79 - Inside enterText Method
+2023-02-09 16:54:26,640  INFO [TestNG-tests-1] ElementUtil:80 - Locator:By.name: password
+2023-02-09 16:54:26,785  INFO [TestNG-tests-1] ElementUtil:85 - text entered Successfully
+2023-02-09 16:54:26,785  INFO [TestNG-tests-1] ElementUtil:24 - Inside doClick Method
+2023-02-09 16:54:26,785  INFO [TestNG-tests-1] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-09 16:54:28,107  INFO [TestNG-tests-1] ElementUtil:33 - click Successfully
+2023-02-09 16:54:28,109  INFO [TestNG-tests-1] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 16:54:28,111  INFO [TestNG-tests-1] ElementUtil:97 - Locator:By.className: oxd-alert-content-text
+2023-02-09 16:54:28,672  INFO [TestNG-tests-1] ElementUtil:102 - Element is present within 10
+2023-02-09 16:54:29,554  INFO [TestNG-tests-1] TestBase:48 - ----------------------Execution Started for the testcase: loginTest-----------------
+2023-02-09 16:54:29,554  INFO [TestNG-tests-1] DriverFactory:19 - inside init driver:chrome
+2023-02-09 16:54:30,723  INFO [TestNG-tests-1] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 16:54:48,412  INFO [TestNG-tests-1] LogInTest:34 - test case executopn start -->loginTest
+2023-02-09 16:54:48,413  INFO [TestNG-tests-1] ElementUtil:79 - Inside enterText Method
+2023-02-09 16:54:48,413  INFO [TestNG-tests-1] ElementUtil:80 - Locator:By.name: username
+2023-02-09 16:54:48,506  INFO [TestNG-tests-1] ElementUtil:85 - text entered Successfully
+2023-02-09 16:54:48,506  INFO [TestNG-tests-1] ElementUtil:79 - Inside enterText Method
+2023-02-09 16:54:48,507  INFO [TestNG-tests-1] ElementUtil:80 - Locator:By.name: password
+2023-02-09 16:54:48,644  INFO [TestNG-tests-1] ElementUtil:85 - text entered Successfully
+2023-02-09 16:54:48,644  INFO [TestNG-tests-1] ElementUtil:24 - Inside doClick Method
+2023-02-09 16:54:48,644  INFO [TestNG-tests-1] ElementUtil:27 - Locator:By.className: orangehrm-login-button
+2023-02-09 16:54:48,729  INFO [TestNG-tests-1] ElementUtil:33 - click Successfully
+2023-02-09 16:54:48,730  INFO [TestNG-tests-1] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 16:54:48,731  INFO [TestNG-tests-1] ElementUtil:97 - Locator:By.className: oxd-userdropdown-name
+2023-02-09 16:54:50,353  INFO [TestNG-tests-1] ElementUtil:102 - Element is present within 15
+2023-02-09 16:54:51,192  INFO [TestNG-tests-1] TestBase:48 - ----------------------Execution Started for the testcase: redirectToResetPasswordPageLinkPresent-----------------
+2023-02-09 16:54:51,192  INFO [TestNG-tests-1] DriverFactory:19 - inside init driver:chrome
+2023-02-09 16:54:52,364  INFO [TestNG-tests-1] DriverFactory:24 -  chrome browser initialize successfully
+2023-02-09 16:55:18,739  INFO [TestNG-tests-1] LogInTest:65 - test case executopn start -->redirectToResetPasswordPageLinkPresent
+2023-02-09 16:55:18,740  INFO [TestNG-tests-1] ElementUtil:96 - Inside isElementPresent method
+2023-02-09 16:55:18,740  INFO [TestNG-tests-1] ElementUtil:97 - Locator:By.className: orangehrm-login-forgot-header
+2023-02-09 16:55:18,749  INFO [TestNG-tests-1] ElementUtil:102 - Element is present within 10
+2023-02-09 16:55:19,491  INFO [TestNG-tests-1] TestBase:48 - ----------------------Execution Started for the testcase: verifyLinks-----------------

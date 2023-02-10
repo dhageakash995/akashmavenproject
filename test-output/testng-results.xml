@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30142" started-at="2023-02-09T17:55:59 IST" finished-at="2023-02-09T17:56:29 IST">
+    <groups>
+    </groups>
+    <test name="chromeTest" duration-ms="30142" started-at="2023-02-09T17:55:59 IST" finished-at="2023-02-09T17:56:29 IST">
+      <class name="tests.TestClass1">
+        <test-method status="PASS" signature="test1()[pri:0, instance:tests.TestClass1@3e57cd70]" name="test1" duration-ms="5021" started-at="2023-02-09T17:55:59 IST" finished-at="2023-02-09T17:56:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:tests.TestClass1@3e57cd70]" name="test2" duration-ms="5013" started-at="2023-02-09T17:56:04 IST" finished-at="2023-02-09T17:56:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:tests.TestClass1@3e57cd70]" name="test3" duration-ms="5013" started-at="2023-02-09T17:56:09 IST" finished-at="2023-02-09T17:56:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- tests.TestClass1 -->
+      <class name="tests.TestClass2">
+        <test-method status="PASS" signature="test1()[pri:0, instance:tests.TestClass2@7ce6a65d]" name="test1" duration-ms="5013" started-at="2023-02-09T17:56:14 IST" finished-at="2023-02-09T17:56:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:tests.TestClass2@7ce6a65d]" name="test2" duration-ms="5006" started-at="2023-02-09T17:56:19 IST" finished-at="2023-02-09T17:56:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:tests.TestClass2@7ce6a65d]" name="test3" duration-ms="5009" started-at="2023-02-09T17:56:24 IST" finished-at="2023-02-09T17:56:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- tests.TestClass2 -->
+    </test> <!-- chromeTest -->
+    <test name="FireFox" duration-ms="30142" started-at="2023-02-09T17:55:59 IST" finished-at="2023-02-09T17:56:29 IST">
+      <class name="tests.TestClass1">
+        <test-method status="PASS" signature="test1()[pri:0, instance:tests.TestClass1@5891e32e]" name="test1" duration-ms="5021" started-at="2023-02-09T17:55:59 IST" finished-at="2023-02-09T17:56:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:tests.TestClass1@5891e32e]" name="test2" duration-ms="5012" started-at="2023-02-09T17:56:04 IST" finished-at="2023-02-09T17:56:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:tests.TestClass1@5891e32e]" name="test3" duration-ms="5011" started-at="2023-02-09T17:56:09 IST" finished-at="2023-02-09T17:56:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- tests.TestClass1 -->
+      <class name="tests.TestClass2">
+        <test-method status="PASS" signature="test1()[pri:0, instance:tests.TestClass2@cb0ed20]" name="test1" duration-ms="5013" started-at="2023-02-09T17:56:14 IST" finished-at="2023-02-09T17:56:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:tests.TestClass2@cb0ed20]" name="test2" duration-ms="5004" started-at="2023-02-09T17:56:19 IST" finished-at="2023-02-09T17:56:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:tests.TestClass2@cb0ed20]" name="test3" duration-ms="5009" started-at="2023-02-09T17:56:24 IST" finished-at="2023-02-09T17:56:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- tests.TestClass2 -->
+    </test> <!-- FireFox -->
+  </suite> <!-- Suite -->
+</testng-results>
